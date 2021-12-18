@@ -1,2 +1,2 @@
 # thegdev
-We are here to create add-ons for Microsoft Office!
+I am here to create an PDF viewer.
